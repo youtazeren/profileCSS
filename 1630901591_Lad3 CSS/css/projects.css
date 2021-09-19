@@ -1,0 +1,31 @@
+/* CSS files --> projects.html */
+body{
+    background-color: rgb(78, 1, 23);
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color:rgb(230, 62, 109) ;
+}
+h1{
+    text-align: center; 
+    font-family: 'Nosifer', cursive;
+    background-color:rgb(230, 62, 109) ;
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+    font-weight: normal;
+    background-color:rgb(180, 43, 81) ;
+}
+h4{
+    text-align: center;
+     font-family: 'Lovers Quarrel', cursive;
+     background-color:rgb(255, 97, 109) ; 
+}
+p{
+    text-align: center;
+    font-family: 'Charmonman', cursive;
+    font-weight: normal
+    background-color rgb(180, 43, 81) ;
+}

@@ -1,0 +1,14 @@
+/* CSS files --> contact.html */
+body{
+    background-color:rgb(102, 222, 147) ;
+}
+.table-menu{
+    width: 100%;
+     text-align: center;
+    background-color:rgb(255, 234, 201) ;
+}
+h1{
+    text-align: center;
+     font-family: 'Charmonman', cursive;
+     background-color:rgb(255, 230, 230) ;
+}

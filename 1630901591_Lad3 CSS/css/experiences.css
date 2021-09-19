@@ -1,0 +1,47 @@
+/* CSS files --> experiences.html */
+body{
+    background-color:rgb(169, 228, 215) ;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color:rgb(99, 180, 184);
+}
+h1{
+    text-align: center; 
+    font-family: 'Nosifer', cursive;
+    background-color:rgb(102, 78, 136) ;
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+    font-weight: normal;
+   
+}
+h4{
+    text-align: center; 
+    font-family: 'Lovers Quarrel', cursive;
+    
+ }
+ /* div */
+.table-content:hover{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(191, 162, 219);
+}
+.ul-circle:hover{
+    list-style: circle;
+    background-color:rgb(191, 162, 219) ;
+}
+.ul-disc:hover{
+    list-style: circle;
+    background-color:rgb(191, 162, 219) ;
+}
+.ul-square:hover{
+    list-style: circle;
+    background-color: rgb(191, 162, 219);
+}
+.ul-order:hover{
+    list-style: circle;
+    background-color:rgb(191, 162, 219) ;
+}

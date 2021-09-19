@@ -1,0 +1,32 @@
+/* CSS files --> abilities.html */
+body{
+    background-color:rgb(195, 43, 173) ;
+}
+.table-menu{
+    width: 100%; 
+    text-align: center;
+     background-color: rgb(95, 116, 117); 
+}
+h1:last-of-type{
+    text-align: center; 
+    font-family: 'Nosifer', cursive;
+    background-color: honeydew;
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+    font-weight: normal;
+}
+h4{
+    text-align: center; 
+    font-family: 'Lovers Quarrel', cursive; 
+}
+h2{
+    text-align: center;
+    background-color: ivory;
+}
+.table-skills{
+    margin-left: auto;
+    margin-right: auto ;
+    background-color: honeydew;
+} 
