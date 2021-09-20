@@ -1,0 +1,59 @@
+/* CSS file --> index.html */
+/* (1) Tag Selector */
+body{
+    background-color: rgb(236, 156, 211);
+}
+h1{
+    text-align:center;
+     font-family:cursive;
+}
+h2{
+    text-align:center;
+    font-family:cursive;
+    font-weight: normal;
+}
+h3{
+    text-align: center;
+    font-family: 'Ruthie', cursive; 
+    font-weight: normal;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: justify;
+}
+.p-Name{
+    font-weight:normal;
+}
+.p-Footer{
+    text-align: center;
+}
+.name{
+    text-decoration: underline;
+    color: darkolivegreen;
+}
+/* (3) Id Selector */        
+#th-Details{
+    text-align: left;
+}
+/* div */
+.top-container{
+    background-color:rgb(251, 244, 233) ;
+}
+.table-Manu td :hover{
+    background-color:rgb(177, 230, 147) ;
+}
+.table-content h2{
+    background-color:rgb(110, 203, 99) ;
+}
+.table-content img:hover{
+    background-color: rgb(4, 51, 50);
+}
